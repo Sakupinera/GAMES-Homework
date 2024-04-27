@@ -1,2 +1,3 @@
-# GAMES101-Homework
-GAMES101 Homework.
+# GAMES-Homework
+
+GAMES Homework.
